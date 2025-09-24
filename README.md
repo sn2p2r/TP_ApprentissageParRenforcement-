@@ -1,4 +1,4 @@
-x# 🎮 Projet Apprentissage par Renforcement : DQN vs Monte Carlo
+# 🎮 Projet Apprentissage par Renforcement : DQN vs Monte Carlo
 
 Ce dépôt implémente deux méthodes d’apprentissage par renforcement appliquées au jeu **Three In Row**.  
 L’objectif de l’agent est d’aligner ses **3 pions bleus** pour gagner la partie.
