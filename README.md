@@ -30,9 +30,7 @@ monte_carlo_project/
 ## 📖 Règles du jeu (Three In Row)
 
 1. Plateau **3x3**.  
-2. Chaque joueur dispose de **3 pions** :  
-   - Agent (bleu, `2`)  
-   - Adversaire (rouge, `1`)  
+2. Chaque joueur dispose de **3 pions** en meme temps 
 3. **Phase de placement** :  
    - L’agent place ses 3 pions un par un.  
    - L’adversaire place aussi 3 pions, automatiquement et aléatoirement.  
