@@ -35,7 +35,7 @@ monte_carlo_project/
 1. Plateau **3x3**.  
 2. Chaque joueur dispose de **3 pions** en meme temps 
 3. **Phase de placement** :  
-   - L’agent place ses 3 pions un par un.  
+   - L’agent place ses 3 pions.  
    - L’adversaire place aussi 3 pions, automatiquement et aléatoirement.  
 4. **Phase de mouvement** :  
    - L’agent peut déplacer un pion vers une case voisine libre (y compris en diagonale).  
