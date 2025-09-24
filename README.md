@@ -1,4 +1,4 @@
-# 🎮 Projet Apprentissage par Renforcement : DQN vs Monte Carlo
+x# 🎮 Projet Apprentissage par Renforcement : DQN vs Monte Carlo
 
 Ce dépôt implémente deux méthodes d’apprentissage par renforcement appliquées au jeu **Three In Row**.  
 L’objectif de l’agent est d’aligner ses **3 pions bleus** pour gagner la partie.
@@ -123,12 +123,11 @@ Une interface Tkinter s’ouvre avec :
 
 ## ⚖️ Comparaison DQN vs Monte Carlo
 
-| Critère                  | DQN ✅ | Monte Carlo ⚪ |
+|                   | DQN ✅ | Monte Carlo ⚪ |
 |--------------------------|--------|----------------|
 | Vitesse d’apprentissage | Rapide après réglages | Lent |
 | Complexité implémentation| Plus complexe (réseaux, replay buffer) | Simple |
 | Adapté aux grands espaces | Oui | Non |
-| Interprétabilité | Faible | Moyenne |
 | Stabilité | Bonne avec réseau cible | Variable |
 
 ---
@@ -136,5 +135,5 @@ Une interface Tkinter s’ouvre avec :
 ## 📝 Conclusion
 - **Monte Carlo** → idéal pour débuter, pédagogie et environnements petits.  
 - **DQN** → puissant, généralisable, adapté aux environnements plus complexes.  
-- Ce projet montre la complémentarité des deux approches et permet de comparer en pratique leurs performances sur un même jeu.  
+ 
 
