@@ -29,6 +29,9 @@ monte_carlo_project/
 
 ## 📖 Règles du jeu (Three In Row)
 
+<img width="381" height="474" alt="image" src="https://github.com/user-attachments/assets/67e350e7-1caa-4d92-a254-2d4cf1fccbae" />
+
+
 1. Plateau **3x3**.  
 2. Chaque joueur dispose de **3 pions** en meme temps 
 3. **Phase de placement** :  
