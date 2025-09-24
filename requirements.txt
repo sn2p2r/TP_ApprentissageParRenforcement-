@@ -1,0 +1,18 @@
+# Gestion d’environnement et espace d’états
+gymnasium==0.29.1
+
+# NumPy pour manipulation des vecteurs/états
+numpy>=1.23.0
+
+# PyTorch pour le DQN
+torch>=2.0.0
+
+# Matplotlib pour affichage des courbes (reward, winrate)
+matplotlib>=3.7.0
+
+# Tkinter pour l’interface graphique (inclus par défaut avec Python sur Windows/Linux/Mac)
+# (pas besoin de l’installer via pip, mais on le note pour rappel)
+tk
+
+# Pillow pour manipuler et afficher les images dans Tkinter
+Pillow>=9.5.0
