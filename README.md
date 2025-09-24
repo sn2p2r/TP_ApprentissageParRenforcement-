@@ -136,4 +136,3 @@ Une interface Tkinter s’ouvre avec :
 - **DQN** → puissant, généralisable, adapté aux environnements plus complexes.  
 - Ce projet montre la complémentarité des deux approches et permet de comparer en pratique leurs performances sur un même jeu.  
 
-ℹ️ Tous les scripts sont exécutés depuis **Visual Studio Code (VS Code)** avec le terminal intégré.
