@@ -13,11 +13,13 @@ manette/
 │── run_all.py        # Menu interactif pour lancer DQN ou Monte Carlo
 
 dqn_project/
+│── env.py   
 │── train_dqn.py      # Entraînement avec Deep Q-Network (DQN)
 │── play.py           # Launcher Tkinter pour jouer avec le modèle DQN
 │── dqn_model.pth     # Modèle sauvegardé après apprentissage
 
 monte_carlo_project/
+│── env.py   
 │── mc_control.py     # Entraînement avec Monte Carlo Control
 │── mc_play.py        # Launcher Tkinter pour jouer avec la politique MC
 │── mc_policy.pkl     # Politique sauvegardée après apprentissage
