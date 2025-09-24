@@ -82,9 +82,9 @@ monte_carlo_project/
 
 ### 💻 Pré-requis
 - Python 3.10+  
-- Bibliothèques : `numpy`, `torch`, `matplotlib`, `tkinter`  
+- Install requirements.txt : pip install -r requirements.txt
 - IDE conseillé : **Visual Studio Code (VS Code)** avec terminal intégré.
-
+  
 ### 🚀 Lancer le menu principal
 Depuis **Visual Studio Code (VS Code)**, ouvrez un terminal intégré et exécutez :
 ```bash
