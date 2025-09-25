@@ -1,6 +1,6 @@
 # 🎮 Projet Apprentissage par Renforcement : DQN vs Monte Carlo
 
-Ce dépôt implémente deux méthodes d’apprentissage par renforcement appliquées au jeu **Three In Row**.  
+Ce projet implémente deux méthodes d’apprentissage par renforcement appliquées au jeu **Three In Row**.  
 L’objectif de l’agent est d’aligner ses **3 pions bleus** pour gagner la partie.
 
 ---
@@ -86,13 +86,13 @@ monte_carlo_project/
 ### 💻 Pré-requis
 - Python 3.10+  
 - Install requirements.txt : pip install -r requirements.txt
-- IDE conseillé : **Visual Studio Code (VS Code)** avec terminal intégré.
+- **Visual Studio Code (VS Code)** avec terminal intégré.
   
 ### 🚀 Lancer le menu principal
 Depuis **Visual Studio Code (VS Code)**, ouvrez un terminal intégré et exécutez :
 ```bash
-cd manette
-python run_all.py
+Aller dans repertoire : manette
+Run python file run_all.py
 ```
 
 Vous aurez accès au menu :
